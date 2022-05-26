@@ -44,7 +44,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 ![](/images/recommandation.png)
 
 ## [Projet 4: Deep Q-Learning appliqué au domaine du jeu vidéo](https://gitlab.com/PIER0318/projet_final_8inf911)
-> *Machine Learning + Deep Learning*
+> *Machine Learning and Deep Learning*
 
 - Construction de l’environnement de jeu à l'aide de Gym.
 - Création d'un modèle de CNN .
