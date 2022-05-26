@@ -76,7 +76,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 ```
 ![](/images/Yolo.png)
 
-## [Projet 6: Création d'EKO]
+## Projet 6: Création d'EKO
 
 ### [Assistant virtuel](https://github.com/AbirLOUARD/Virtual-Assistant-Eko)
 > *Speech recognition and speech-to-text*
