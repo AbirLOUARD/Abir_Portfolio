@@ -1,6 +1,6 @@
-# Portfolio d'Abir Louard
+## Portfolio d'Abir Louard
 
-## Project 1: Intelligent Vacuum Agent
+### Project 1: Intelligent Vacuum Agent
 
 Creation of a vacuum agent. In this project we will
 have a mansion that contains rooms that don't stop
