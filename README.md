@@ -30,7 +30,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 - IDE utilisé : PyCharm
 ```
 
-![](/images/Sudoku.png)<center>
+![](/images/Sudoku.png)
 
 ## [Projet 3: Système de recommandation de films](https://github.com/AbirLOUARD/Movies-Recommendation)
 > *Machine Learning*
