@@ -1,7 +1,7 @@
 # Portfolio Abir Louard
 
 ## [Projet 1: Agent aspirobot intelligent](https://github.com/AbirLOUARD/AspiRobot)
-> Intelligence artificielle
+> *Intelligence artificielle*
 
 - Implémentation de deux algorithmes d'exploration (un non-informé et un informé)
 - Possession d'un état mental BDI.
@@ -74,5 +74,5 @@
 - Librairies utilisées : Tensorflow, Keras, OpenAI, Gym.
 - IDE utilisés : PyCharm, Google Colaboratory.
 ```
-![](/images/DQL.png)
+![]()
 
