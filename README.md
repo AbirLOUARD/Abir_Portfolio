@@ -2,6 +2,10 @@
 
 ### Project 1: Intelligent Vacuum Agent
 
+	- First item
+- Second item
+- Third item
+- 
 Creation of a vacuum agent. In this project we will
 have a mansion that contains rooms that don't stop
 to get dirty and the Aspirobot aims to clean these
