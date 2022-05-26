@@ -1,16 +1,11 @@
-## Portfolio d'Abir Louard
+# [Projet 1: Agent aspirobot intelligent](https://github.com/AbirLOUARD/AspiRobot)
 
-### Project 1: Intelligent Vacuum Agent
+- Implémentation de deux algorithmes d'exploration (un non-informé et un informé)
+- Possession d'un état mental BDI.
+- Création d'une heuristique pour l'exploration informée.
+- Apprentissage épisodique pour apprendre la meilleure fréquence d'exploration.
+- Technologie utilisée : Python
 
-	- First item
-- Second item
-- Third item
-- 
-Creation of a vacuum agent. In this project we will
-have a mansion that contains rooms that don't stop
-to get dirty and the Aspirobot aims to clean these
-parts automatically, saving electricityand in a 
-way that it doesn't suck up the jewelry.
 ![](/images/aspirobot.png)
 
 
