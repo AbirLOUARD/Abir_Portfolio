@@ -10,6 +10,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 - Possession d'un état mental BDI.
 - Création d'une heuristique pour l'exploration informée.
 - Apprentissage épisodique pour apprendre la meilleure fréquence d'exploration.
+
 ```
 - Langage utilisé : Python.
 - IDE utilisé : PyCharm.
@@ -23,6 +24,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 - Résolution d'un CSP (Problème de satisfaction de contraintes)
 - Algorithmes utilisés : AC-3, MRV, degree heuristic, least constraining value.
 - Utilisation du Backtracking pour le raisonnement.
+
 ```
 - Langage utilisé : Python.
 - IDE utilisé : PyCharm
@@ -32,9 +34,11 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 
 ## [Projet 3: Système de recommandation de films](https://github.com/AbirLOUARD/Movies-Recommendation)
 > *Machine Learning*
+
 - Récupérer un dataset de films.
 - Trouver la similarité entre les films grâce à cosine_similarity.
 - Pouvoir rentrer le nom du film préféré pour trouver celui qui correspond à l'utilisateur.
+
 ```
 - Langage utilisé : Python.
 - Librairies utilisées : Scikit-Learn, Pandas, NumPy.
@@ -49,6 +53,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 - Construction de l’environnement de jeu à l'aide de Gym.
 - Création d'un modèle de CNN .
 - Implémentation et entraînement d'un Deep Q-Learning agent (Type de Reinforcement Learning)
+
 ```
 - Langage utilisé : Python.
 - Librairies utilisées : Tensorflow, Keras, OpenAI, Gym.
@@ -63,6 +68,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 - Détection d'objets multiples en temps réel.
 - Utilisation de réseaux neuronnaux.
 - Implémentation de l'algorithme YoLo fait par Transfer Learning.
+
 ```
 - Langage utilisé : Python.
 - Librairies utilisées : OpenCV, NumPy.
@@ -71,12 +77,14 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 ![](/images/Yolo.png)
 
 ## [Projet 6: Création d'EKO]
-#### [Assistant virtuel]
+
+### [Assistant virtuel](https://github.com/AbirLOUARD/Virtual-Assistant-Eko)
 > *Speech recognition and speech-to-text*
 
 - Reconnaissance vocale de la voix.
 - Traduire les paroles en texte.
 - Effectuer des diverses tâches (Chercher sur Internet, Ouvrir des applications,...)
+
 ```
 - Langage utilisé : Python.
 - Librairies utilisées : Speech recognition.
@@ -89,6 +97,7 @@ Salut 👋, C'est Abir. Je suis une étudiante en dernière année d'un double d
 - Création du pattern de questions/réponses.
 - Création du modèle de réseaux de neuronnes artificiels FeedForward.
 - Entraînement du modèle.
+
 ```
 - Langage utilisé : Python.
 - Librairies utilisées : PyTorch, NLTK, NumPy.
